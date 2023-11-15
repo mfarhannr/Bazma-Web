@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Bazma-Web</title>
-  <link rel="apple-touch-icon" sizes="76x76" href="./pages/assets/img/apple-icon.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="./pagesassets/img/apple-icon.png" />
   <link rel="icon" type="image/png" href="./pages/assets/img/favicon.png" />
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css"
@@ -17,9 +17,6 @@
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
   <!-- Material Icons -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet" />
-  {{-- Flaticon Icons --}}
-  <link rel='stylesheet'
-    href='https://cdn-uicons.flaticon.com/2.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
   <!-- CSS Files -->
   <link id="pagestyle" href="./pages/assets/css/material-kit.css?v=3.0.4" rel="stylesheet" />
   <!-- Nepcha Analytics (nepcha.com) -->

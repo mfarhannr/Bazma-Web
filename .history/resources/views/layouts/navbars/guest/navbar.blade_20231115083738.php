@@ -5,8 +5,8 @@
                 <nav
                     class="navbar navbar-expand-lg card border-radius-xl mt-4 top-0 z-index-3 shadow position-absolute my-3 py-2 start-0 end-0 mx-4">
                     <div class="container-fluid px-0 phenomena-bold">
-                        <a class="navbar-brand text-white ms-sm-3" href="/beranda" rel="tooltip"></a>
-                        <img src="./pages/assets/img/smktibazma-1.png" alt="" style="width: 130px" />
+                        <a class="navbar-brand text-white ms-sm-3" href="/beranda" rel="tooltip"<img
+                                src="./pages/assets/img/smktibazma-1.png" alt="" style="width: 130px" />
                         </a>
                         <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false"
