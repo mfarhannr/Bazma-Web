@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class PageController extends Controller
+class AdminPageController extends Controller
 {
     /**
      * Display all the static pages when authenticated
@@ -30,12 +30,7 @@ class PageController extends Controller
     {
         return view("pages.rtl");
     }
-
-    public function beranda()
-    {
-        return view("pages.beranda");
-    }
-
+ 
     public function profile()
     {
         return view("pages.profile-static");
