@@ -364,7 +364,7 @@
               <div class="card card-plain">
                 <div class="card-header p-0 position-relative">
                   <a class="d-block blur-shadow-image">
-                    <img src="./assets/img/examples/testimonial-6-3.jpg" alt="img-blur-shadow"
+                    <img src="./pages/assets/img/examples/testimonial-6-3.jpg" alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg" loading="lazy" />
                   </a>
                 </div>
@@ -374,7 +374,7 @@
               <div class="card card-plain">
                 <div class="card-header p-0 position-relative">
                   <a class="d-block blur-shadow-image">
-                    <img src="./assets/img/examples/blog-9-4.jpg" alt="img-blur-shadow"
+                    <img src="./pages/assets/img/examples/blog-9-4.jpg" alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg" loading="lazy" />
                   </a>
                 </div>
@@ -384,7 +384,7 @@
               <div class="card card-plain">
                 <div class="card-header p-0 position-relative">
                   <a class="d-block blur-shadow-image">
-                    <img src="./assets/img/examples/blog-9-4.jpg" alt="img-blur-shadow"
+                    <img src="./pages/assets/img/examples/blog-9-4.jpg" alt="img-blur-shadow"
                       class="img-fluid shadow border-radius-lg" loading="lazy" />
                   </a>
                 </div>
